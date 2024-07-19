@@ -1,1 +1,6 @@
-
+autoinstall:
+  storage:
+    layout:
+      name: direct
+      reset-partition: 6G
+      reset-partition-only: true
